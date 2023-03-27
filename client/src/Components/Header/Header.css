@@ -1,0 +1,9 @@
+.btn-grp{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.btn{
+    margin: 3rem;
+}
